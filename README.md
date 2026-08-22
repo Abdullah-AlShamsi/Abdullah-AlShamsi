@@ -48,3 +48,4 @@ Completed the **SparkToCode 2026** software development program — an intensive
 
 - 📧 ibnhilal2003@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdullah-al-shamsi-b9323a34b/)
+- [Abdullah_Al_Shamsi_Resume_Public.pdf](https://github.com/user-attachments/files/31335877/Abdullah_Al_Shamsi_Resume_Public.pdf)
