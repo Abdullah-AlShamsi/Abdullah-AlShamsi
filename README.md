@@ -31,10 +31,16 @@ B.Sc. Computer Science | Specialization: Intelligent Systems & Data Science (202
 - Organized and delivered a Web Fundamentals workshop for students
 - Promoted open-source culture and collaborative learning on campus
 
-## 📂 Projects
+## 💻 SparkToCode Program
+
+Currently enrolled in the **SparkToCode 2026** software development program, building full-stack applications with C#, ASP.NET Core, Entity Framework Core, and SQL Server.
+
+- **[Inventory and Warehouse Management System](https://github.com/SparkToCode2026/Inventory_And_Warehouse_Management)** — Team Lead for a full-stack ASP.NET Core Web API with JWT authentication, role-based access control, and a complete frontend across 13 data models. Owned the Category & Product modules and led code reviews, merges, and architecture decisions for a 6-person team.
+- **[SparkToCodeProjects](https://github.com/Abdullah-AlShamsi/SparkToCodeProjects)** — Personal practice repository covering C# fundamentals, OOP, database design (ERDs), Entity Framework Core, and mini full-stack apps such as a Banking System and a Hotel Management System.
+
+## 📂 Other Projects
 
 - [BuildMart-vibe-coding-](https://github.com/Abdullah-AlShamsi/BuildMart-vibe-coding-)
-- [SparkToCodeProjects](https://github.com/Abdullah-AlShamsi/SparkToCodeProjects)
 - [my-projects](https://github.com/Abdullah-AlShamsi/my-projects)
 
 ## 📫 Connect with me
