@@ -33,7 +33,11 @@ B.Sc. Computer Science | Specialization: Intelligent Systems & Data Science (202
 
 ## 💻 SparkToCode Program
 
-Currently enrolled in the **SparkToCode 2026** software development program, building full-stack applications with C#, ASP.NET Core, Entity Framework Core, and SQL Server.
+Completed the **SparkToCode 2026** software development program — an intensive full-stack training program focused on building production-style applications from the ground up.
+
+**Languages & frameworks used:** C#, ASP.NET Core Web API, Entity Framework Core, Microsoft SQL Server, JWT Authentication, Swagger / OpenAPI, HTML, CSS, JavaScript, Bootstrap
+
+**Tools:** Git, GitHub, Visual Studio, Postman
 
 - **[Inventory and Warehouse Management System](https://github.com/SparkToCode2026/Inventory_And_Warehouse_Management)** — Team Lead for a full-stack ASP.NET Core Web API with JWT authentication, role-based access control, and a complete frontend across 13 data models. Owned the Category & Product modules and led code reviews, merges, and architecture decisions for a 6-person team.
 - **[SparkToCodeProjects](https://github.com/Abdullah-AlShamsi/SparkToCodeProjects)** — Personal practice repository covering C# fundamentals, OOP, database design (ERDs), Entity Framework Core, and mini full-stack apps such as a Banking System and a Hotel Management System.
